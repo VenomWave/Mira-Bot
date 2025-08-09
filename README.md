@@ -1,4 +1,4 @@
-# Mira-Bot
+# Mira-voice-avatar
 A next-generation female AI 3D model chat node with built-in voice input, crafted to deliver engaging, human-like interaction in real time. The character blends natural anatomy-inspired proportions with stylized, accessible aesthetics to create an approachable yet professional persona suitable for a wide range of applications, from help desks and onboarding to interactive storytelling and virtual companionship.
 
 Visual design
